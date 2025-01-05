@@ -135,3 +135,18 @@ console.log(names.indexOf("rakib"));
 console.log(names[3]);
 names[1] = "kasem";
 console.log(names); */
+/* let names = ["shakib", "rakib", "hasan", "masum "];
+console.log(names.indexOf("rakib"));
+console.log(names[3]);
+names[1] = "kasem";
+console.log(names); */
+/* let names = ["shakib", "rakib", "hasan", "masum "];
+console.log(names.indexOf("rakib"));
+console.log(names[3]);
+names[1] = "kasem";
+console.log(names); */
+/* let names = ["shakib", "rakib", "hasan", "masum "];
+console.log(names.indexOf("rakib"));
+console.log(names[3]);
+names[1] = "kasem";
+console.log(names); */
