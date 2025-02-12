@@ -7,19 +7,26 @@
 
 // even
 
-/* for (let i = 1; i < 20; i = i + 1) {
+for (let i = 1; i < 20; i = i + 1) {
   console.log(i);
   if (i % 2 === 0) {
     console.log(i, "this is even ");
   }
-} */
+}
 
 //   odd
 
-/* for (let i = 0; i < 20; i++) {
+for (let i = 0; i < 20; i++) {
   console.log(i);
   if (i % 2 !== 0) {
     console.log(i, "this is odd");
   }
 }
- */
+while (i < 100) {
+  console.log(i);
+  //   sum = sum + i;
+  //   if (sum <= 100) {
+  //     break;
+  //   }
+  //   i++;
+}

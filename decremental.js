@@ -34,13 +34,20 @@
 // }
 
 // another
-let i = 10;
-let sum = 0;
-while (i >= 0) {
+// let i = 10;
+// let sum = 0;
+// while (i >= 0) {
+//   console.log(i);
+//   if (i % 2 === 0) {
+//     sum = sum + i;
+//     console.log(sum, "this is sum");
+//   }
+//   i--;
+// }
+
+for (let i = 20; i >= 0; i--) {
   console.log(i);
-  if (i % 2 === 0) {
-    sum = sum + i;
-    console.log(sum, "this is sum");
+  if (i % 2 !== 0) {
+    console.log(i, "this is odd");
   }
-  i--;
 }

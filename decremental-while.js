@@ -1,5 +1,6 @@
-let i = 20;
-while (i >= 0) {
+// incrimental while loop
+let i = 1;
+while (i <= 20) {
   console.log(i);
-  i--;
+  i++;
 }

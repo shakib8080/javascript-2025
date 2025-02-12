@@ -12,7 +12,7 @@ while (num <= 10) {
 let num = 1;
 while (num <= 5) {
   console.log(num);
-  if (num % 2 === 1) {
+  if (num % 2 !== 1) {
     console.log(num, "this is odd");
   }
   num++;
